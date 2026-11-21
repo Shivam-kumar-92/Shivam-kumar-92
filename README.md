@@ -3,7 +3,7 @@
 
 Designing resilient enterprise network topologies and building high-throughput, asynchronous AI & backend systems.
 
-[LinkedIn](https://linkedin.com/in/your-linkedin-handle) · [LeetCode](https://leetcode.com/u/your-leetcode-handle) · [GitHub](https://github.com/Shivam-kumar-92) · [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/shivam-kumar-81b067305/) · [LeetCode](https://leetcode.com/u/shivam_kumar_93_/) · [GitHub](https://github.com/Shivam-kumar-92) · [Email](mailto:shivamkumarofficialit2005@gmail.com)
 
 ---
 
@@ -14,8 +14,8 @@ Designing resilient enterprise network topologies and building high-throughput, 
 - **NOC Monitoring & Fault Isolation:** Automated endpoint telemetry, SLA/MTTR tracking, packet-level Root Cause Analysis (DNS, TCP, TLS, ARP), and cyber threat mitigation (DAI, DHCP Snooping, SSH hardening, UFW/Fail2Ban).
 
 ### AI & Backend Systems
-- **AI Pipelines & Data Engineering:** Multi-tier LLM extraction workflows, structured prompt engineering, entity resolution, and token/cost optimization.
-- **Async Backend & Interfaces:** High-concurrency `asyncio` web scraping & orchestration, RESTful backends, relational data modeling, and voice/intent-driven web interfaces.
+- **AI Pipelines & Data Engineering:** Multi-tier LLM extraction & RAG workflows, structured prompt engineering, entity resolution, and token/cost optimization.
+- **Async Backend & Interfaces:** High-concurrency `asyncio` web scraping & orchestration, full-stack TypeScript/React/Spring Boot backends, Prisma/SQL modeling, and voice/multimodal AI interfaces.
 
 ---
 
@@ -24,8 +24,8 @@ Designing resilient enterprise network topologies and building high-throughput, 
 | Domain | Technologies |
 | :--- | :--- |
 | **Networking & Security** | Cisco Packet Tracer, Cisco IOS, TCP/IP, BGP/OSPF, HSRP, VLANs, Wireshark (`tshark`), Linux Networking, AWS VPC, Terraform |
-| **Languages & Frameworks** | Python, Java, JavaScript, Spring Boot, React, Bash |
-| **AI & Data** | LLM APIs, Prompt Engineering, `asyncio`, Web Speech API, Prisma, SQL (PostgreSQL / SQLite) |
+| **Languages & Frameworks** | Python, Java, JavaScript, TypeScript, Spring Boot, React, Next.js, Bash |
+| **AI & Data** | LLM APIs (Gemini, OpenAI, Claude), Semantic RAG, Prompt Engineering, `asyncio`, Web Speech API, Prisma, SQL (PostgreSQL / SQLite) |
 
 ---
 
@@ -40,12 +40,12 @@ Designing resilient enterprise network topologies and building high-throughput, 
    Dual-router Cisco HSRP v2 + OSPF Area 0 + split-scope DHCP campus lab paired with a Terraform-provisioned AWS private subnet, SG-to-SG Bastion host, UFW/Fail2Ban hardening, and automated SHA-256 cron backups.
 
 ### AI & Software Systems
-4. **[Multi-Tier LLM Extraction & Entity Resolution Pipeline](https://github.com/Shivam-kumar-92/your-llm-pipeline-repo)** *(Placeholder — update link)*
-   Asynchronous multi-stage document/web extraction engine combining deterministic parsers, schema-validated LLM prompts, and fuzzy/semantic entity deduplication into SQL via Prisma.
-5. **[Async Web Intelligence & High-Concurrency Scraper](https://github.com/Shivam-kumar-92/your-async-scraper-repo)** *(Placeholder — update link)*
-   `asyncio`-powered distributed scraper with rate-limiting, exponential backoff retries, structured JSON/SQL persistence, and automated anomaly alerts.
-6. **[Voice & Intent-Driven AI Assistant Interface](https://github.com/Shivam-kumar-92/your-voice-ai-repo)** *(Placeholder — update link)*
-   Full-stack React + Spring Boot / Python assistant leveraging the Web Speech API for low-latency voice capture, intent classification, and tool-augmented LLM responses.
+4. **[Yuktivya AI — Market Intelligence & AI Data Analyst Platform](https://github.com/Shivam-kumar-92/AI-analytics-)**
+   TypeScript AI data analytics & market intelligence platform combining structured LLM reasoning pipelines with interactive data synthesis.
+5. **[Nova Support AI — Multi-Engine RAG Customer Support Platform](https://github.com/Shivam-kumar-92/AI_AMZ)**
+   Full-stack AI support platform featuring multi-engine reasoning across Gemini, OpenAI, Anthropic Claude, and built-in offline semantic RAG with knowledge-base retrieval.
+6. **[AURA AI — Multimodal Voice & Vision Companion App](https://github.com/Shivam-kumar-92/Aura-AI-App)**
+   Multimodal voice, vision, and collaborative AI companion featuring an audio-reactive interface and low-latency voice/intent-driven workflows.
 
 ---
 
