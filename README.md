@@ -3,7 +3,7 @@
 
 Designing resilient enterprise network topologies and building high-throughput, asynchronous AI & backend systems.
 
-[LinkedIn](https://www.linkedin.com/in/shivam-kumar-81b067305/) · [LeetCode](https://leetcode.com/u/shivam_kumar_93_/) · [GitHub](https://github.com/Shivam-kumar-92) · [Email](mailto:shivamkumarofficialit2005@gmail.com)
+[Portfolio](https://shivam-ai-portfolio-chi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/shivam-kumar-81b067305/) · [LeetCode](https://leetcode.com/u/shivam_kumar_93_/) · [GitHub](https://github.com/Shivam-kumar-92) · [Email](mailto:shivamkumarofficialit2005@gmail.com)
 
 ---
 
@@ -42,9 +42,9 @@ Designing resilient enterprise network topologies and building high-throughput, 
    Bounded-concurrency Python `asyncio` CIDR subnet scanner that probes TCP port handshake latencies (`22/53/80/443`) and exports structured JSON telemetry reports for NOC/SRE automation pipelines.
 
 ### AI & Software Systems
-5. **[Yuktivya AI — Market Intelligence & AI Data Analyst Platform](https://github.com/Shivam-kumar-92/AI-analytics-)**
+5. **[Yuktivya AI — Market Intelligence & AI Data Analyst Platform](https://github.com/Shivam-kumar-92/AI-analytics-)** · [Live Demo](https://analytics-zeta-lovat.vercel.app)
    TypeScript AI data analytics & market intelligence platform combining structured LLM reasoning pipelines with interactive data synthesis.
-6. **[Nova Support AI — Multi-Engine RAG Customer Support Platform](https://github.com/Shivam-kumar-92/AI_AMZ)**
+6. **[Nova Support AI — Multi-Engine RAG Customer Support Platform](https://github.com/Shivam-kumar-92/AI_AMZ)** · [Live Demo](https://amzdemo.vercel.app)
    Full-stack AI support platform featuring multi-engine reasoning across Gemini, OpenAI, Anthropic Claude, and built-in offline semantic RAG with knowledge-base retrieval.
 7. **[AURA AI — Multimodal Voice & Vision Companion App](https://github.com/Shivam-kumar-92/Aura-AI-App)**
    Multimodal voice, vision, and collaborative AI companion featuring an audio-reactive interface and low-latency voice/intent-driven workflows.
