@@ -38,13 +38,15 @@ Designing resilient enterprise network topologies and building high-throughput, 
    Four real `.pcap` enterprise failure investigations (DNS `NXDOMAIN`/`SERVFAIL`, TCP `SYN` firewall drop vs. `RST`, HTTP vs. TLS 1.2 handshake, ARP spoofing/Duplicate IP) with remediation runbooks and a Python forensic CLI validated by `tshark` in CI.
 3. **[High-Availability Enterprise Network + Hardened Linux Bastion Lab (Cisco + AWS)](https://github.com/Shivam-kumar-92/High-Availability-Enterprise-Network-Linux-Bastion-Lab-Cisco-AWS-)**
    Dual-router Cisco HSRP v2 + OSPF Area 0 + split-scope DHCP campus lab paired with a Terraform-provisioned AWS private subnet, SG-to-SG Bastion host, UFW/Fail2Ban hardening, and automated SHA-256 cron backups.
+4. **[Async Subnet Health & Port Latency Monitor](https://github.com/Shivam-kumar-92/async-subnet-monitor)**
+   Bounded-concurrency Python `asyncio` CIDR subnet scanner that probes TCP port handshake latencies (`22/53/80/443`) and exports structured JSON telemetry reports for NOC/SRE automation pipelines.
 
 ### AI & Software Systems
-4. **[Yuktivya AI — Market Intelligence & AI Data Analyst Platform](https://github.com/Shivam-kumar-92/AI-analytics-)**
+5. **[Yuktivya AI — Market Intelligence & AI Data Analyst Platform](https://github.com/Shivam-kumar-92/AI-analytics-)**
    TypeScript AI data analytics & market intelligence platform combining structured LLM reasoning pipelines with interactive data synthesis.
-5. **[Nova Support AI — Multi-Engine RAG Customer Support Platform](https://github.com/Shivam-kumar-92/AI_AMZ)**
+6. **[Nova Support AI — Multi-Engine RAG Customer Support Platform](https://github.com/Shivam-kumar-92/AI_AMZ)**
    Full-stack AI support platform featuring multi-engine reasoning across Gemini, OpenAI, Anthropic Claude, and built-in offline semantic RAG with knowledge-base retrieval.
-6. **[AURA AI — Multimodal Voice & Vision Companion App](https://github.com/Shivam-kumar-92/Aura-AI-App)**
+7. **[AURA AI — Multimodal Voice & Vision Companion App](https://github.com/Shivam-kumar-92/Aura-AI-App)**
    Multimodal voice, vision, and collaborative AI companion featuring an audio-reactive interface and low-latency voice/intent-driven workflows.
 
 ---
