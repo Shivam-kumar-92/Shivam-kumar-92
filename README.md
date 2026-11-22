@@ -31,6 +31,10 @@ Designing resilient enterprise network topologies and building high-throughput, 
 
 ## Featured Architecture & Code
 
+### Flagship Hybrid (Network Engineering + AI Systems)
+- **[AI-Powered NOC Incident Triage Bot](https://github.com/Shivam-kumar-92/Ai-noc-incident-triage-bot)**
+  Zero-dependency 2-tier AIOps platform combining `asyncio` TCP probes and binary Wireshark `.pcap` forensics (Tier-1 deterministic filtering, ~84% LLM token savings) with a multi-provider structured LLM RCA engine (Gemini -> OpenAI -> offline expert fallback), SQLite audit storage, Discord/Slack/Telegram alerts, and a live triage web console.
+
 ### Networking & Infrastructure
 1. **[Automated NOC Health Monitor & Alerting Bot](https://github.com/Shivam-kumar-92/Automated-NOC-Health-Monitor-Alerting-Bot-Highest-Edge-)**
    Zero-dependency Python/Linux daemon performing concurrent ICMP + TCP port checks (`22/53/80/443`), SQLite SLA tracking, automated CSV log rotation, and real-time Discord/Slack/Telegram outage & recovery alerts.
